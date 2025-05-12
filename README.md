@@ -81,7 +81,7 @@
 ## 3. 其他说明
 
 - 转账前请务必确认您选择了正确的网络和货币种类，避免因网络错误导致资金损失。
-- 如果遇到任何问题，请通过 [联系邮箱](mailto:frankie.fc.wang@outlook.com) 与我们联系。
+- 如果遇到任何问题，请通过 [联系邮箱](mailto:contact@frankie.science) 与我们联系。
 
 再次感谢您的支持与打赏！
 
@@ -155,4 +155,4 @@ Thank you for your support! You can donate through the following methods. This p
 
 # 3. Other Notes
 - Please make sure to select the correct network and currency type before transferring to avoid loss of funds due to network errors.
-
+- If you encounter any issues, please contact us via [contact email](mailto:contact@frankie.science).

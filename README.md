@@ -21,7 +21,7 @@
   TKTQMEQds4MHpCzWRCdcD27Zs548888888
   ```
 - <details> <summary>点击展开二维码</summary>
-  <img src="Tron/Tron.jpg" alt="Tron QR Code" />
+  <img src="TRON/TRON.jpg" alt="Tron QR Code" />
   </details>
 - **备注：** 请确保使用 Tron 网络进行转账。
 
@@ -109,7 +109,7 @@ Thank you for your support! You can donate through the following methods. This p
   TKTQMEQds4MHpCzWRCdcD27Zs548888888
   ```
 - <details> <summary>Click to expand QR code</summary>
-  <img src="Tron/Tron.jpg" alt="Tron QR Code" />
+  <img src="TRON/TRON.jpg" alt="Tron QR Code" />
   </details>
 - **Note:** Please ensure you are using the Tron network for the transfer.
 ### EVM Cryptocurrencies (such as ETH, etc.) (Network: Ethereum(L1,L2), BSC, Polygon, etc.)
@@ -155,4 +155,13 @@ Thank you for your support! You can donate through the following methods. This p
 
 # 3. Other Notes
 - Please make sure to select the correct network and currency type before transferring to avoid loss of funds due to network errors.
+<<<<<<< HEAD
 - If you encounter any issues, please contact us via [contact email](mailto:contact@frankie.science).
+=======
+
+<div align="right">
+  <a href="#打赏支持">Top</a>
+</
+
+
+>>>>>>> f6e12138bd30b3f09b6d8c17d2f9538ab3fb20f6
